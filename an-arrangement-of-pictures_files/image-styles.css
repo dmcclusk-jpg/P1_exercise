@@ -11,7 +11,7 @@ img {
 * img {
   float: left;
   clip-path: circle(40%);
-  shape-outside: circle(45%);
+  shape-outside: circle(40%);
 }
 
 #img-0 {
