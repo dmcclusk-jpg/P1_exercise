@@ -8,6 +8,11 @@ img {
   font-family: Back Issues BB;
   margin: em;
 }
+* img {
+  float: left;
+  clip-path: circle(40%);
+  shape-outside: circle(45%);
+}
 
 #img-0 {
 height: 500px;
