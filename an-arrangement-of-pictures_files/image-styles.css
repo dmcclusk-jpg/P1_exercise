@@ -10,8 +10,8 @@ img {
 }
 * img {
   float: left;
-  clip-path: circle(40%);
-  shape-outside: circle(40%);
+  clip-path: circle(30%);
+  shape-outside: circle(30%);
 }
 
 #img-0 {
